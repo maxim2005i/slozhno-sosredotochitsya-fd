@@ -467,9 +467,12 @@ main {
   }
   .heading {
     margin-inline-start: -20px;
+    font-size: 9.8125rem;
   }
   .header__theme-menu {
     margin-inline-start: 10px;
+    align-self: start;
+    justify-self: center;
   }
   .content {
     margin-block-start: 62px;
@@ -477,14 +480,7 @@ main {
   .paragraph-text {
     margin-inline-end: -9px;
   }
-  .heading {
-    font-size: 9.8125rem;
-  }
-  .header__theme-menu {
-    align-self: start;
-    justify-self: center;
 
-  }
   .header__theme-menu-list {
     flex-direction: row;
     gap:25px;
