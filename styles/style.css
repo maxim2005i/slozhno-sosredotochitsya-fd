@@ -241,7 +241,7 @@
 
 .paragraph-text {
   font-family: var(--font-family);
-  font-weight: 400;
+  font-weight: normal;
   font-size: 1.125rem;
   line-height: 130%;
   color: var(--paragraph-text-color);
