@@ -7,7 +7,7 @@
 :root.theme-light {
   --bg-image: url("../images/cover-image-light.png");
   --accent-color: #FF8DCB;
-  --accent-color-transparent:rgb(255, 0, 112, .4);
+  --accent-color-transparent:rgb(53, 52, 48, .4);
   --heading-color:#FFC2E6;
   --paragraph-heading-color:#353430;
   --paragraph-text-color:#353430;
