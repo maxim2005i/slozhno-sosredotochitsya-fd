@@ -13,6 +13,10 @@
   --paragraph-text-color:#353430;
 }
 
+.theme-light .rec-decoration {
+  display: none;
+}
+
 
 @media (prefers-color-scheme:light) {
   :root {
@@ -23,6 +27,10 @@
   --paragraph-heading-color:#353430;
   --paragraph-text-color:#353430;
   }
+  .rec-decoration {
+    visibility: hidden;
+  }
+  
 
 }
 
