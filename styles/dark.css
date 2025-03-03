@@ -6,6 +6,7 @@
 
 :root.theme-dark {
   --bg-image: url("../images/cover-image-dark.png");
+  --header-menu-color:rgb(255, 0, 112);
   --accent-color:rgb(255, 0, 112);
   --accent-color-transparent:rgb(255, 0, 112, .4);
   --heading-color:#db00ff;

@@ -11,6 +11,7 @@
   --heading-color:#FFC2E6;
   --paragraph-heading-color:#353430;
   --paragraph-text-color:#353430;
+  --header-menu-color:#353430;
 }
 
 .theme-light .rec-decoration {
@@ -22,10 +23,12 @@
   :root {
   --bg-image: url("../images/cover-image-light.png");
   --accent-color-transparent:rgb(255, 0, 112, .4);
-  --accent-color: rgb(255, 141, 203, .4);
+  --accent-color: rgb(255, 141, 203);
   --heading-color:#FFC2E6;
   --paragraph-heading-color:#353430;
   --paragraph-text-color:#353430;
+  --header-menu-color:#353430;
+  
   }
   .rec-decoration {
     visibility: hidden;
